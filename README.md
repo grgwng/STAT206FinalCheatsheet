@@ -27,4 +27,14 @@ Original: μ’s indep., σ^2  unknown
 
 Corrected: μ’s indep., σ^2 known
 
+## Additions
+
+### Addition #1
+Timestamp: Dec 6 4:25pm
+
+Under **Discrete Distributions > Properties**
+
+Added: Hypergeometric vs Binomial topic
+
+
 
