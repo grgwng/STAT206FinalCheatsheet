@@ -18,6 +18,8 @@ Original: n!/n!(n-k)!=(n¦k)![image](https://github.com/grgwng/STAT206FinalCheat
 
 Corrected: n!/k!(n-k)!=(n¦k)![image](https://github.com/grgwng/STAT206FinalCheatsheet/assets/43724836/1b496ba7-cf57-4727-9eb7-0997d3d4baa1)
 
+(Thanks Saaniya)
+
 ### Correction #1
 Timestamp: Dec 5
 
@@ -27,6 +29,8 @@ Original: μ’s indep., σ^2  unknown
 
 Corrected: μ’s indep., σ^2 known
 
+(Thanks Hannah)
+
 ## Additions
 
 ### Addition #1
@@ -35,6 +39,8 @@ Timestamp: Dec 6 4:25pm
 Under **Discrete Distributions > Properties**
 
 Added: Hypergeometric vs Binomial topic
+
+(Thanks Kevin)
 
 
 
