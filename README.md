@@ -4,7 +4,11 @@ Cheatsheet for the STAT206 Final Exam
 
 Length: 6 pages (You get to add 2 more pages of examples!)
 
+**USE AT YOUR OWN DISCRETION**
+
+
 ## Corrections
+The sheet will only be changed for corrections. No new content will be added in changes.
 
 ### Correction #2
 Timestamp: Dec 6 10:34am
