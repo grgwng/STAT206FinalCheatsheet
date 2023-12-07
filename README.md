@@ -9,6 +9,18 @@ Length: 6 pages (You get to add 2 more pages of examples!)
 
 ## Corrections
 
+### Correction #3
+
+Timestamp: Dec 7 12:54pm
+
+Under **Probability > Inclusion-Exclusion Principle > three events:**
+
+Original: P(A∪B∪C)=P(A)+P(B)+P(C)-[P(A∩B)+P(A∩B)+P(A∩B)]+P(A∩B∩C) ![image](https://github.com/grgwng/STAT206FinalCheatsheet/assets/43724836/1658213a-c6ec-49d0-8e26-6e1e990cf3a9)
+
+Corrected: P(A∪B∪C)=P(A)+P(B)+P(C)-[P(A∩B)+P(A∩C)+P(B∩C)]+P(A∩B∩C) ![image](https://github.com/grgwng/STAT206FinalCheatsheet/assets/43724836/f873b5d8-dcff-4404-a017-e0a12892d78d)
+
+(Thanks Faseeh)
+
 ### Correction #2
 Timestamp: Dec 6 10:34am
 
